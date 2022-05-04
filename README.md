@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamPaliwal03
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on C langauge
 - 📫 How to reach me:shubhampaliwal3032003@gmail.com
 
 <!---
