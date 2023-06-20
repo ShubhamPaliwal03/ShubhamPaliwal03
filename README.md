@@ -2,8 +2,10 @@
 - 👀 I’m interested in programming, coding, and development.
 - 💻 I am familiar with C language C++, DSA, Linux and Shell Scripting and HTML.
 - 🌱 I’m currently learning Python and Java.
-- 🖇️I’m looking to collaborate on C langauge C++, DSA, Linux and Shell Scripting and HTML
-- 📫 How to reach me : shubhampaliwal3032003@gmail.com
+- 🖇️I’m looking to collaborate on C language, C++, DSA, Linux and Shell Scripting, and HTML.
+- 📫 How to reach me :
+- 📧 Mail : shubhampaliwal3032003@gmail.com
+- 🤝 LinkedIn : https://www.linkedin.com/in/shubhammpaliwal
 
 <!---
 ShubhamPaliwal03/ShubhamPaliwal03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
