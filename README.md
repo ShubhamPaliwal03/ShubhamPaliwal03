@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShubhamPaliwal03
-- 👀 I’m interested in learning coding
-- 💻 I am familiar with C language and HTML
-- 🌱 I’m currently learning C++, DSA and CSS
-- 🖇️I’m looking to collaborate on C langauge and HTML
+- 👀 I’m interested in programming, coding, and development.
+- 💻 I am familiar with C language C++, DSA, Linux and Shell Scripting and HTML.
+- 🌱 I’m currently learning Python and Java.
+- 🖇️I’m looking to collaborate on C langauge C++, DSA, Linux and Shell Scripting and HTML
 - 📫 How to reach me : shubhampaliwal3032003@gmail.com
 
 <!---
