@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamPaliwal03
 - 👀 I’m interested in programming, coding, and development.
-- 💻 I am familiar with C language C++, DSA, Linux and Shell Scripting and HTML.
+- 💻 I have a good working knowledge of C language C++, DSA, Linux and Shell Scripting, and HTML.
 - 🌱 I’m currently learning Python and Java.
 - 🖇️I’m looking to collaborate on C language, C++, DSA, Linux and Shell Scripting, and HTML.
 - 📫 How to reach me :
