@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShubhamPaliwal03
-- 👀 I’m interested in programming, coding, and development.
+- 👀 I’m interested in programming, problem solving, development, and learning.
 - 💻 I have a good working knowledge of Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting, and HTML.
 - ✨ I love problem solving.
 - 🌱 I’m currently learning SQL, CSS and Javascript.
