@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Notepad Application Using Swing Framework in Java](https://github.com/ShubhamPaliwal03/Notepad-Application)
 
-- 🌱 I’m currently learning **Java Frameworks, Core Java, Web Development, SQL, CSS, Javascript, JQuery, AJAX..**
+- 🌱 I’m currently learning **Java Frameworks, Core Java, Web Development, SQL, CSS, Javascript, JQuery, AJAX.**
 
 - 🖇️ I’m looking to collaborate on **Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting, and HTML.**
 
