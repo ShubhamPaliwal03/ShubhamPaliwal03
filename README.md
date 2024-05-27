@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhammpaliwal" target="blank"><img src="https://img.shields.io/twitter/follow/shubhammpaliwal?logo=twitter&style=for-the-badge" alt="shubhammpaliwal" /></a> </p>
 
-- 🏢 I’m currently working as an Open Source Contributor at GSSOC (Girlscript Summer of Code) 2024.
+- 🏢 I’m currently working as an Open Source Contributor at [GSSOC (Girlscript Summer of Code) 2024](https://gssoc.girlscript.tech/).
 
 - 🔗 I’m currently contributing to [Flipkart Clone](https://github.com/arghadipmanna101/Flipkart_Clone).
 
