@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shubhammpaliwal" target="blank"><img src="https://img.shields.io/twitter/follow/shubhammpaliwal?logo=twitter&style=for-the-badge" alt="shubhammpaliwal" /></a> </p>
 
-- 🔭 I’m currently working on [Notepad Application Using Swing Framework in Java](https://github.com/ShubhamPaliwal03/Notepad-Application)
+- 🏢 I’m currently working as an Open Source Contributor at GSSOC (Girlscript Summer of Code) 2024.
+
+- 🔗 I’m currently contributing to [Flipkart Clone](https://github.com/arghadipmanna101/Flipkart_Clone).
+
+- 🔭 I’m currently working on [JustNote](https://github.com/ShubhamPaliwal03/Notepad-Application), [Snaky Climb](https://github.com/ShubhamPaliwal03/Snakes-And-Ladders-Game), and [Tic-Tac-Toe].
 
 - 🌱 I’m currently learning **Java Frameworks, Core Java, Web Development, SQL, CSS, Javascript, JQuery, AJAX.**
 
