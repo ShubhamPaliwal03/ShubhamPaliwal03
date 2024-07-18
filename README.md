@@ -27,6 +27,8 @@
 
 - ✨ I love **Problem Solving, Development, and Learning New Technologies.**
 
+- 🔗 Here's the link to my personal portfolio website : www.shubhampaliwal.me
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhammpaliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhammpaliwal" height="30" width="40" /></a>
