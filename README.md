@@ -57,7 +57,7 @@
 </a>
 </div>
 
-## My Github Stats 📈
+## My Github Stats 📊
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampaliwal03" alt="shubhampaliwal03" /></a> </p>
 
