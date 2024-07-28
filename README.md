@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Shubham Paliwal👋</h1>
 <h3 align="center">🚀 Aspiring Software Development Engineer | 💻 Passionate Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampaliwal03&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampaliwal03" /> </p>
-
 ## About Me 📃
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampaliwal03&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampaliwal03" /> </p>
 
 - 🏢 I’m currently working as an Open Source Contributor at [GSSOC (Girlscript Summer of Code) 2024](https://gssoc.girlscript.tech/).
 
