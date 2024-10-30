@@ -90,7 +90,7 @@
 ## GSSOC(24) Badges 🏆
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
-  <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/Postman_API_Fundamentals_Student_Expert_Badge.png" width="100px" height="100px" />
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_1.png" width="100px" height="100px" />
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_2.png" width="100px" height="100px" />
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_3.png" width="100px" height="100px" />
