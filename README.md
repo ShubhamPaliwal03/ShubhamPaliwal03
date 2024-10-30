@@ -96,7 +96,6 @@
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_3.png" width="100px" height="100px" />
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_4.png" width="100px" height="100px" />
   <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_5.png" width="100px" height="100px" />
-  <img src="https://github.com/ShubhamPaliwal03/GSSOC_Badges/blob/main/GSSOC_6.png" width="100px" height="100px" />
 </a>
 </div>
 
