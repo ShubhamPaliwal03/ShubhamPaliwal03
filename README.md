@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on [Chitthi](https://chitthi.web.app/), [TrafficTracer](https://github.com/ShubhamPaliwal03/TrafficTracer), and [PlantoScope](https://github.com/ShubhamPaliwal03/PlantoScope).
 
-- 🌱 I’m currently learning **Java Frameworks, Core Java, Web Development, SQL, CSS, Javascript, JQuery, AJAX.**
+- 🌱 I’m currently learning **Java Backend Frameworks, and Modern Web Development Frameworks.**
 
-- 🖇️ I’m looking to collaborate on **Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting, and HTML.**
+- 🖇️ I’m looking to collaborate on **React JS, PHP, J2EE, SQL, Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting.**
 
 - 👀 I’m interested in **Programming, Problem solving, Development, and Learning.**
 
 - 🤝 Let's connect on LinkedIn [https://www.linkedin.com/in/shubhammpaliwal](https://www.linkedin.com/in/shubhammpaliwal)
 
-- 💬 Ask me about **Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting.**
+- 💬 Ask me about **Java, PHP, JavaScript, React JS, SQL, J2EE, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting.**
 
 - 📫 How to reach me **shubhampaliwal.dev@gmail.com**
 
