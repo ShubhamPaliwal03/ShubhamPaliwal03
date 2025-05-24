@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Chitthi](https://chitthi.web.app/), [TrafficTracer](https://github.com/ShubhamPaliwal03/TrafficTracer), and [PlantoScope](https://github.com/ShubhamPaliwal03/PlantoScope).
 
-- 🌱 I’m currently learning **Java Backend Frameworks, and Modern Web Development Frameworks.**
+- 🌱 I’m currently learning **Modern Web Development Frameworks.**
 
 - 🖇️ I’m looking to collaborate on **React JS, PHP, J2EE, SQL, Java, Data Structures and Algorithms, Python, C++, C, Linux and Shell Scripting.**
 
