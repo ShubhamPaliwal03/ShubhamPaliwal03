@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampaliwal03&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampaliwal03" /> </p>
 
-- 🏢 I’m currently working as an Open Source Contributor at [GSSOC (Girlscript Summer of Code) 2024](https://gssoc.girlscript.tech/).
+- 🏢 I have worked as an Open Source Contributor at [GSSOC (Girlscript Summer of Code) 2024](https://gssoc.girlscript.tech/).
 
 - 🔗 I’m currently contributing to [Flipkart Clone](https://github.com/arghadipmanna101/Flipkart_Clone).
 
